@@ -3,8 +3,8 @@
     {
       "select_main_ads": "APPLOVIN-M",
       "select_backup_ads":"null",
-      "main_ads_banner": "",
-      "main_ads_intertitial":"",
+      "main_ads_banner": "c3a1fffd8c81ec8b",
+      "main_ads_intertitial":"f38a7bec556dc527",
       "main_ads_natives":"",
       "backup_ads_natives":"",
       "backup_ads_banner":"",
@@ -12,9 +12,9 @@
       "open_ads_admob":"",
       "open_ads_alien":"",
       "switch_open_ads":"1",
-      "switch_banner_natives_ads":"",
-      "interval_intertitial": 5,
-      "initialize_sdk":"",
+      "switch_banner_natives_ads":"1",
+      "interval_intertitial": 4,
+      "initialize_sdk":"Z1i2PB1d7KboFQRg3bfVEn68CcaNQBIETWRktkVOrzSVOkdgglaOtRe6L-PwBvaaz3dIZI_led8R59A2CiakA1",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "",
       "high_paying_keyword_2": "",
@@ -28,7 +28,7 @@
   "More": [
     {
       "id": 1,
-      "title": "IQ Test vs The Moron Test",
+      "title": "FM-2023",
       "image": "file:///android_asset/gambar/fm2023.webp",
       "link": "https://play.google.com/store/apps/details?id=com.footballsoccer.tipswinninggame"
     }
